@@ -6,6 +6,7 @@ App Description
  Codebase Description
  * This app is divided into three main folders i.e. the componnets folder where the resusable custom widgets and menu package are placed, the helper folder where the themeprovider class is placed and the page folder where all the app pages are placed.
 ==============================================================
+
  App Design
  * The overall app design is very simple and minimalistic. A splashpage is first displayed before the homepage is being displayed, a drawer widget controls the navigation of the whole app.
  =============================================================
@@ -19,7 +20,9 @@ App Description
  =============================================================
  
  APK link
+ 
  https://www.dropbox.com/s/8iwdwtlquwm4ikc/app-debug.apk?dl=0
+ 
  =============================================================
  
  Challenges Faced
